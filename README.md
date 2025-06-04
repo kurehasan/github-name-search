@@ -4,3 +4,6 @@
 ## 使用技術  
 フロントエンド：React、Typescript、Tailwindcss  
 API：GitHubAPI
+## 今後の追加機能  
+リポジトリの詳細が見れる  
+その人が主に使っている技術がわかる
